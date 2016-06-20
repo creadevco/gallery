@@ -1984,3 +1984,7 @@
 		#footer .copyright a {
 			color: inherit;
 		}
+
+.logo {
+	width: 100%;
+}
